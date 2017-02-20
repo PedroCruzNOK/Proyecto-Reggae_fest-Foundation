@@ -1,0 +1,36 @@
+body{
+  background:#FFF7EE;
+
+}
+#social-container{
+  background: #456B35;
+}
+#logo-container .callout{
+  background-color: #FFF7EE;
+  color: #9C9E4B;
+}
+h1, h2, h3, h4, h5, h6, button{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+#menu-container{
+  background: #fff7ee;
+}
+#menu-container li a{
+    font-family: 'Lato', sans-serif;
+}
+#menu-container li a:hover{
+  color:#456B35;
+  border-bottom: 1px solid #FFBD4F;
+  border-right: 1px solid #FFBD4F;
+  border-bottom-right-radius: 5px;
+}
+#submenu-container li a{
+  background: #fff7ee;
+
+}
+#submenu-container{
+  border:none;
+  border-top: 2px solid #456b35;
+  border-left: 2px solid #456b35;
+  border-top-left-radius: 5px;
+}

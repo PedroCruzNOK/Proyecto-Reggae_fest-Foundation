@@ -5,7 +5,6 @@ body{
 #social-container{
   background: #456B35;
 }
-
 #logo-container .callout{
   background-color: #FFF7EE;
   color: #9C9E4B;
@@ -38,9 +37,4 @@ h1, h2, h3, h4, h5, h6, button{
 .logo{
   width: 15%;
   height: auto;
-}
-#tickets-action .callout button{
-  color: #456b35;
-  border-color: #456b35;
-
 }
